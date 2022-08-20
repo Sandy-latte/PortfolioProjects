@@ -1,4 +1,6 @@
 /****** Script for SelectTopNRows command from SSMS  ******/
+Disclaimer: I created/practiced the below with the amazing tutorial offered by Alex the Analyst (https://www.youtube.com/watch?v=8rO7ztF4NtU&t=6s).
+
 SELECT TOP (1000) [UniqueID ]
       ,[ParcelID]
       ,[LandUse]
