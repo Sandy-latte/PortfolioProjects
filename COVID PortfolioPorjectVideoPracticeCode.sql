@@ -1,3 +1,5 @@
+Disclaimer: I created/practiced the below with the amazing tutorial offered by Alex the Analyst (https://www.youtube.com/watch?v=qfyynHBFOsM&t=186s).
+
 Select *
 From PortfolioProject..CovidDeaths 
 Where continent is not null
